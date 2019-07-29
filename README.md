@@ -1,2 +1,2 @@
-# Capstone-Project
+# Course-Project
 course assignment
